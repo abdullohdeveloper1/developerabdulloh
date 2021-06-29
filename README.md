@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning python <a href="https://www.python.org/" title="python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="python" width="21px" height="21px"></a>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=developerabdulloh&show_icons=true&theme=dracula)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=developerabdulloh&langs_count=5&theme=tokyonight)]()
+
 
 **My Skills:**
 
