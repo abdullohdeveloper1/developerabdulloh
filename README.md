@@ -1,7 +1,6 @@
 ### Hi, I'm Abdulloh 👋
 
-- 🌱 I’m currently learning python <a href="https://www.python.org/" title="python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="python" width="21px" height="21px"></a>
-
+- 🌱 I’m currently learning Python <a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="21px" height="21px"></a> and JavaScript <a href="https://www.javascript.com/" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript">
 **I'm learning from:**
 
 <img src="https://img.utdstc.com/icon/1e5/00d/1e500d6e3c5436e20de91d7be149b821e8e40bd6bfbfc55648c59363078ce7ca:200" alt="Udacity" width="21px" height="21px"> - `Udacity` |
